@@ -4,4 +4,4 @@ NTT DOCOMO
 Service Inovation Dept. Big Data
 Ryo Ozawa
 
-oza2
+oza22
